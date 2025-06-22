@@ -1,0 +1,50 @@
+.drawerPaper {
+  width: 250px;
+  background-color: #f6f8fa;
+  padding-top: 16px;
+  border-right: 1px solid #e0e0e0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  padding: 0 16px;
+  margin-bottom: 16px;
+}
+
+.logoImg {
+  width: 28px;
+  margin-right: 10px;
+}
+
+.logoText {
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+.sectionTitle {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: mediumaquamarine;
+  padding: 8px 16px 4px;
+  text-transform: uppercase;
+  
+}
+
+.profileSection {
+  padding: 16px;
+  display: flex;
+  align-items: center;
+  border-top: 1px solid #e0e0e0;
+}
+
+.profileText {
+  margin-left: 10px;
+}
+
+.profileName {
+  font-weight: 500;
+}
